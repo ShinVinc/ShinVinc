@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Vincent Winsen Trijunius
 
-<!--
-**ShinVinc/ShinVinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Software Engineer at Bina Nusantara University and an Associate Member of its IT Division. Passionate about cloud infrastructure, DevOps, and IT architecture, I love tackling projects that push me to think both critically and creatively.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack & Skills
+- **Languages:** JavaScript, TypeScript, Go, C
+- **Cloud Platforms:** Azure, AWS
+- **DevOps & CI/CD:** YAML, Azure DevOps, GitHub Actions
+- **Containers:** Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Project
+- **[maimai-competition landing page](https://www.maimaiid.site)**
+
+### 🌱 About Me
+- Deeply interested in cloud computing & automation
+- Always learning new tech and best practices
+- Love solving challenges and delivering high-quality solutions
+
+### 🎮 Fun Facts
+- Gamer & Arcade Rhythm Game enthusiast
+- Love coding, exploring new frameworks, and automating workflows
+
+### 📫 Connect with me!
+- [Instagram: @vincent.wt](https://instagram.com/vincent.wt)
+- [LinkedIn](https://www.linkedin.com/in/vincent-winsen-trijunius)
+
+---
+> "Continuous improvement is better than delayed perfection."
