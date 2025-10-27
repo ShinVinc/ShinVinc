@@ -9,7 +9,7 @@ I'm an undergraduate Software Engineer at Bina Nusantara University and an Assoc
 - **Containers:** Docker, Kubernetes
 
 ### 🌟 Featured Project
-- **[maimai-competition landing page](https://www.maimaiid.site)**
+- Maimai Summer Paradise Website **[Click Me](https://www.maimaiid.site)**
 
 ### 🌱 About Me
 - Deeply interested in cloud computing & automation
