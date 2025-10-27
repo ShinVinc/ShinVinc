@@ -10,6 +10,7 @@ I'm an undergraduate Software Engineer at Bina Nusantara University and an Assoc
 
 ### 🌟 Featured Project
 - Maimai Summer Paradise Website **[Click Me](https://www.maimaiid.site)**
+- ChuniMaidori Festival 2025 **[Click Me](https://www.chunimaidori.com)**
 
 ### 🌱 About Me
 - Deeply interested in cloud computing & automation
