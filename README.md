@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vincent Winsen Trijunius
+## 👋 Hi, I'm Vincent Winsen Trijunius (ShinVinc)
 
 I'm an undergraduate Software Engineer at Bina Nusantara University and an Associate Member of its IT Division. Passionate about cloud infrastructure, DevOps, and IT architecture, I love tackling projects that push me to think both critically and creatively.
 
